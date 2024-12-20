@@ -1,4 +1,5 @@
-Image to Text Generate a caption/description for your image, simple and straight forward using Transformers library.
+Image to Text Generate a caption/description for your image using Transformers library with History Saving Feture that saves history of uploaded image and store it in a Database
+
 
 How to use 
 1. Create a Python 3.9 virtual environment 
