@@ -1,4 +1,4 @@
-Image to Text Generate a caption/description for your image using Transformers library with History Saving Feture that saves history of uploaded image and store it in a Database
+Image to Text Generate a caption/description for your image using Transformers library with History Saving Feature that saves History of Uploaded images and store it in a Database
 
 
 How to use 
